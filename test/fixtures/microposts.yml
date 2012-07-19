@@ -1,9 +1,0 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
-one:
-  content: 
-  user_id: 1
-
-two:
-  content: 
-  user_id: 1
